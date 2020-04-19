@@ -1,2 +1,3 @@
-# JARVIS
-Virtual assistant with common sense and can fake its thinking capacity.
+# A1
+#In this working protocol this is code in python to convert speech to text. 
+#If anyone can add other cool features i'll add her/him as team member.
