@@ -9,3 +9,4 @@ def c():
 schedule.every(1).hours.do(a)
 schedule.every(120).seconds.do(b)
 schedule.every().day.at("10:55").do(c)
+while 1:
