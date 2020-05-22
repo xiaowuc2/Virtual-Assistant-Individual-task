@@ -11,3 +11,4 @@ schedule.every(4).seconds.do(b)
 schedule.every().day.at("10:55").do(c)
 while 1:
     schedule.run_pending()
+    time.sleep(1)
