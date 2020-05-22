@@ -5,3 +5,4 @@ def a():
 def b():
     print("check why your gf/bf is not calling you ?")
 def c():
+    print("Are you on the work desk ?")
