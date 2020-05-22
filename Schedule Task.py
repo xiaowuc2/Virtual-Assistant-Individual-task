@@ -11,6 +11,8 @@ def b():
 
 def c():
     print("now you are")
+    
+#-----------------------------
 
 schedule.every(2).seconds.do(a)
 schedule.every(4).seconds.do(b)
