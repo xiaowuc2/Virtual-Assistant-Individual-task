@@ -8,3 +8,4 @@ def c():
     print("now you are")
 schedule.every(2).seconds.do(a)
 schedule.every(4).seconds.do(b)
+schedule.every().day.at("10:55").do(c)
