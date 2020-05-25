@@ -5,7 +5,7 @@
 
 <br/>Code must be in python.
 
-# API's:
+# API's used:
 
 gtts
 
